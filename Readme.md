@@ -24,12 +24,22 @@ Aprendizado com diversas tecnologias. <br/>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ReactJS + TS
-- React Flow
-- Radix UI
-- Tailwindcss
-- Vite
-- Git e Github
+### Front-end
++ `ReactJS + TS`
++ `React Flow`
++ `Radix UI`
++ `Tailwindcss`
++ `Vite`
++ `Git e Github`
+
+## Inicialização
+
+### Client
+
+  1. `$ cd FigmanJan`
+  2. `$ npm install` or `$ yarn install`
+  3. `$ npm start` or `$ yarn start`
+
 
 ## 💻 Projeto
 
