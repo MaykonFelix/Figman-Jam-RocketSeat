@@ -25,7 +25,7 @@ Aprendizado com diversas tecnologias. <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Front-end
-+ `ReactJS + TS`
++ `ReactJS + TypeScript`
 + `React Flow`
 + `Radix UI`
 + `Tailwindcss`
@@ -36,9 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Client
 
-  1. `$ cd FigmanJan`
-  2. `$ yarn install`
-  3. `$ yarn dev`
+  1º `$ cd FigmanJan`
+  2º `$ yarn install`
+  3º `$ yarn dev`
 
 
 ## 💻 Projeto
