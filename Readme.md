@@ -37,8 +37,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Client
 
   1. `$ cd FigmanJan`
-  2. `$ npm install` or `$ yarn install`
-  3. `$ npm start` or `$ yarn start`
+  2. `$ yarn install`
+  3. `$ yarn dev`
 
 
 ## 💻 Projeto
