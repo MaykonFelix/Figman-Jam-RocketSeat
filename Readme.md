@@ -43,7 +43,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Aprendendo Bastante conceito com a aula do Diego da RocketSeat 🚀.
+Recriando o Jam do Figma, simples mas de muito aprendizado...
+Aula do Diego da RocketSeat 🚀.
 
 
 ## :memo: Licença 🪪
