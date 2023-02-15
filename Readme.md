@@ -47,10 +47,5 @@ Recriando o Jam do Figma, simples mas de muito aprendizado...
 Aula do Diego da RocketSeat 🚀.
 
 
-## :memo: Licença 🪪
 
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Maykon 👋
+Feito com ♥ by Maykon <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif" />
