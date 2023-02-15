@@ -1,4 +1,4 @@
-<h1 align="center"> FigmanJan Teste </h1>
+<h1 align="center"> FigJan Teste </h1>
 
 <p align="center">
 Aprendizado com diversas tecnologias. <br/>
@@ -6,18 +6,14 @@ Aprendizado com diversas tecnologias. <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp; 
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto Figman Jam" src="preview.jpg" width="100%">
+  <img alt="projeto FigJam" src="preview.jpg" width="50%">
 </p>
 
 ## 🧭 Tecnologias
@@ -29,8 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 + `React Flow`
 + `Radix UI`
 + `Tailwindcss`
-+ `Vite`
-+ `Git e Github`
 
 ## Inicialização
 
@@ -40,12 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   2º `$ yarn install`
   3º `$ yarn dev`
 
-
 ## 💻 Projeto
 
 Recriando o Jam do Figma, simples mas de muito aprendizado...
 Aula do Diego da RocketSeat 🚀.
-
 
 
 Feito com ♥ by Maykon <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif" />
